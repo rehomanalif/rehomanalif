@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rehoman Alif
-#### Web Application Developer & Graphic Designer
+#### Web Application Developer & Graphics Designer
 ![Web Application Developer & Graphic Designer](https://media-exp1.licdn.com/dms/image/C5616AQFEAPQwqiutUw/profile-displaybackgroundimage-shrink_350_1400/0/1640092763275?e=1646265600&v=beta&t=-JD_Jeawbefmwe-9xa5vwxEnoafvEzeD10Wt_GWXD7M)
 
 I am a professionall 'Front-End Developer,Graphic Designer,Web Designer' with 2 years of experience.I am working as a "Freelancer" in the international marketplace on top of my skills.
