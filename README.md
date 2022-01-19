@@ -4,8 +4,9 @@
 
 I am a professionall 'Front-End Developer,Graphic Designer,Web Designer' with 2 years of experience.I am working as a "Freelancer" in the international marketplace on top of my skills.
 I have a lot of experience working on the above skills.I always try my best to satisfy my client.I do all my work very well.
+##### Now I'm Learning MERN Stack Development.
 
-Skills:  HTML / CSS / JS / jQuery /  Bootstrap / php / Python / Wordpress / Java / React /
+Skills:  HTML / CSS / JS / jQuery /  Bootstrap / php / Python / Wordpress / Node Js / React / Mongo DB / Express Js /
 
 - 👌 I’m currently working on Fiverr. 
 - 👌 I’m currently learning JS,php,python and Java. 
