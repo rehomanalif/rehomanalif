@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm "Rehoman Alif"</h1>
-<h3 align="center">A Professional Web Application Developer,Web/App Developer,Graphics Designer from Bangladesh</h3>
+<h3 align="center">A Professional Web Application Developer | Web & App Developer | Graphics Designer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Fiverr](https://fiverr.com)
 
