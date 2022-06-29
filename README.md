@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Html,Css,Js,React,Python & Others**
 
-- 📫 How to reach me **rehomanaliffiverr@gmail.com**
+- 📫 How to reach me **rehoman1234@gmail.com**
 
 - 📄 Know about my experiences [https://myresume.me](https://myresume.me)
 
